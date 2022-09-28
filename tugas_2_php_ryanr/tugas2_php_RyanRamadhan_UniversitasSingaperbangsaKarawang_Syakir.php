@@ -6,7 +6,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Tugas 1 PHP || Ryan Ramadhan</title>
+        <title>Tugas 2 PHP || Ryan Ramadhan</title>
 
         <!-- import bootstrap -->
         <link
@@ -235,7 +235,7 @@
         <!-- import jquery eksternal -->
         <script src="js/jquery-3.6.1.min.js"></script>
     
-        <!-- js custom -->
+        <!-- js custom karena biar bootstrap modal bisa jalan pake js -->
         <script src="js/tugas2_php.js"></script>
     
         <!-- import js bootstrap -->
