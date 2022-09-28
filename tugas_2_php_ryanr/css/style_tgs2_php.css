@@ -1,0 +1,33 @@
+body {
+  background: url("https://asset.kompas.com/crops/yQ0zuKF_rX7Ahbt4natabqonr4c=/0x0:780x390/780x390/data/photo/2015/08/27/1600089shutterstock-114267883780x390.jpg");
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.judul {
+  text-align: center;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  padding: 20px;
+}
+
+.container {
+  background-color: moccasin;
+  padding: 50px 100px 50px 100px;
+  width: 1000px;
+  border-radius: 20px;
+}
+
+.container form .konten_input {
+  margin-bottom: 20px;
+}
+
+.container form .konten_input .form-check {
+  margin-left: 50px;
+}
+
+.container form button {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  margin-top: 10px;
+}
