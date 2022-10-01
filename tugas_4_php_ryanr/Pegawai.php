@@ -62,12 +62,13 @@
         private function setTunkel(){
             $this -> tunjanganKeluarga = ($this -> status == 'Menikah') ? $this -> gaji_Pokok * 0.1 : 0;
         }
-
+        
+        //member3 setGajiKotor = gapok + tunjab + tunkel
         private function setGajiKotor(){
             $this -> gajiKotor = $this -> gaji_Pokok + $this -> tunjanganJabatan + $this -> tunjanganKeluarga;
         }
 
-        //member3 setZakatProfesi= 2,5% dari GajiPokok untuk muslim dan Gaji Kotor minimal 6jt
+        //member3 setZakatProfesi = 2,5% dari GajiPokok untuk muslim dan Gaji Kotor minimal 6jt
         private function setZakatProfesi(){
             $this -> zakatProfesi = ($this -> agama == 'Islam' && $this -> gajiKotor >= 6000000) ? $this -> gaji_Pokok * 0.025 : 0;
         }
@@ -79,17 +80,18 @@
 
         //member3 mencetak => nip, nama, jabatan, agama, status, Gaji Pokok, Tunj Jab, Tunkel, Zakat, Gaji Bersih 
         public function mencetak(){
-            echo '<br/>-------------------------------------------';
+            echo '<br/>=====================================';
             echo '<br/>NIP : ' . $this -> nip;
             echo '<br/>Nama : ' . $this -> nama;
             echo '<br/>Jabatan : ' . $this -> jabatan;
             echo '<br/>Agama : ' . $this -> agama;
             echo '<br/>Status : ' . $this -> status;
+
             echo '<br/>Gaji Pokok : Rp' . number_format($this -> gaji_Pokok, 0, ',', '.');
             echo '<br/>Tunjangan Jabatan : Rp' . number_format($this -> tunjanganJabatan, 0, ',', '.');
             echo '<br/>Tunjangan Keluarga : Rp' . number_format($this -> tunjanganKeluarga, 0, ',', '.');
             echo '<br/>Zakat Profesi : - Rp' . number_format($this -> zakatProfesi, 0, ',', '.');
             echo '<br/><b>Gaji Bersih : Rp' . number_format($this -> gajibersih, 0, ',', '.') . '</b>';
-            echo '<br/>-------------------------------------------';
+            echo '<br/>=====================================';
         }
     }
