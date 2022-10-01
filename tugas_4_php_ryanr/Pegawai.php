@@ -45,7 +45,7 @@
                     $this-> gaji_Pokok = 7000000;
                     break;
                 case 'Staff':
-                    $this-> gaji_Pokok = 7000000;
+                    $this-> gaji_Pokok = 4000000;
                     break;  
                 default:
                     $this-> gaji_Pokok = 0;
