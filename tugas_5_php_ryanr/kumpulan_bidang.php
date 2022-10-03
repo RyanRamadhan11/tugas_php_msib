@@ -4,10 +4,8 @@
     require_once 'Lingkaran.php';
     require_once 'PersegiPanjang.php';
     require_once 'Segitiga.php';
-
-    // array judul
-    $arr_title = ['No', 'Nama Bidang', 'Keterangan', 'Luas Bidang', 'Keliling Bidang'];
-
+    
+    // array scalar
     $lingkaran_1 = new Lingkaran(7);
     $lingkaran_2 = new Lingkaran(14);
     $lingkaran_3 = new Lingkaran(21);
@@ -21,6 +19,9 @@
     // array assosiative
     $kumpulan_bidang = [$lingkaran_1, $lingkaran_2, $lingkaran_3, $persegiPanjang_1, $persegiPanjang_2,
                         $persegiPanjang_3, $segitiga_1, $segitiga_2, $segitiga_3];
+
+    // array judul
+    $arr_title = ['No', 'Nama Bidang', 'Keterangan', 'Luas Bidang', 'Keliling Bidang'];
 
 ?>
 
