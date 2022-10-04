@@ -1,3 +1,5 @@
+<!-- Ryan Ramadhan || Kelompok 5 || Universitas Singaperbangsa Karawang || Fullstack Web Developer -->
+
 <div class="container">
 
       <div class="section-title">
@@ -27,7 +29,6 @@
               <p>JavaScript</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/js_1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Aplikasi Form Penjualan Barang"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -41,7 +42,6 @@
               <p>HTML, CSS & Bootstrap</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/html_1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Landing Pages Web NF Computer"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -55,7 +55,6 @@
               <p>Design UI UX</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/ui_1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Design Web NF Computer"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -69,7 +68,6 @@
               <p>PHP</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/php_1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Aplikasi Form Data Pegawai"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -83,7 +81,6 @@
               <p>HTML, CSS & Bootstrap</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/html_2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Landing Pages Web Portofolio"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -97,7 +94,6 @@
               <p>Design UI UX</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/ui_2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Design Web Interaktif"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -111,7 +107,6 @@
               <p>JavaScript</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/js_2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Aplikasi Informasi Data Gempa"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -125,7 +120,6 @@
               <p>PHP</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/php_2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Aplikasi Data Nilai Mahasiswa"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -139,7 +133,6 @@
               <p>PHP</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/php_3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Aplikasi Data Luas dan keliling Bidang Datar"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
