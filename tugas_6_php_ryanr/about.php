@@ -1,4 +1,6 @@
-    <!-- ======= About Me ======= -->
+<!-- Ryan Ramadhan || Kelompok 5 || Universitas Singaperbangsa Karawang || Fullstack Web Developer -->
+  
+  <!-- ======= About Me ======= -->
     <div class="about-me container">
       <div class="section-title">
         <h2>About Me</h2>

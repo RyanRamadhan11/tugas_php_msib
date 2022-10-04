@@ -1,3 +1,5 @@
+<!-- Ryan Ramadhan || Kelompok 5 || Universitas Singaperbangsa Karawang || Fullstack Web Developer -->
+
     <div class="container">
         <a href="index.html" class="mr-auto rounded">
             <img src="assets/img/ryan.jpg" alt="" class="img-fluid">
